@@ -1,1 +1,9 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"modal-read-more.css"}
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "modal-read-more.scss"
+    ],
+    "names": [],
+    "file": "modal-read-more.css"
+}

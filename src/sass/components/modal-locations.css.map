@@ -1,1 +1,9 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"modal-locations.css"}
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "modal-locations.scss"
+    ],
+    "names": [],
+    "file": "modal-locations.css"
+}

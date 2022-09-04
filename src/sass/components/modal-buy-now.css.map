@@ -1,1 +1,9 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"modal-buy-now.css"}
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "modal-buy-now.scss"
+    ],
+    "names": [],
+    "file": "modal-buy-now.css"
+}

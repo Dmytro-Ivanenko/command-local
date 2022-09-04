@@ -1,1 +1,9 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"modal-franchise.css"}
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "modal-franchise.scss"
+    ],
+    "names": [],
+    "file": "modal-franchise.css"
+}
